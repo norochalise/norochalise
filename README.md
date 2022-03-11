@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Here is What I'm Working On
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Automate my projects and writting article
 - 🌱 I’m currently learning ... TensorFlow JS and React Js
