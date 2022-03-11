@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Automate my projects and writting article
+- 🔭 I’m currently working on ... Machine Learning and Deep Learning
 - 🌱 I’m currently learning ... TensorFlow JS and React Js
 - 👯 I’m looking to collaborate on ...Machine Learning and Deep Learning
 - 🤔 I’m looking for help with ... Increase productivity
