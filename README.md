@@ -9,5 +9,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/norochalise/), [Twitter](https://twitter.com/norochalise) and [Medium](https://medium.com/@norochalise), 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Let me think :thinking:
+- ⚡ Fun fact: ... Reader :thinking:
 -->
