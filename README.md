@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Machine Learning, Deep Learning and MLOPs
-- 🌱 I’m currently learning ... React Js
+- 🌱 I’m Currently Reading ... Crime and Punishment
 - 👯 I’m looking to collaborate on ...Machine Learning, Deep Learning and MLOPs
 - 🤔 I’m looking for help with ... React Js
 - 💬 Ask me about ... Anything
