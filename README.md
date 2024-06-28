@@ -4,13 +4,12 @@ Welcome to my GitHub!
 
 ## 🚀 About Me
 - 🔭 **Currently Working On**: Machine Learning, Deep Learning, and MLOps
-- 🌱 **Currently Reading** 📚📚📚📚📚: *Crime and Punishment* by Fyodor Dostoevsky
+- 📚 **Currently Reading**: *Crime and Punishment* by Fyodor Dostoevsky
 - 👯 **Looking to Collaborate On**: Machine Learning, Deep Learning, and MLOps projects
-- 🤔 **Need Help With**: React JS
 - 💬 **Ask Me About**: Anything - I'm here to help!
 - 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/), [Twitter](https://twitter.com/), [Medium](https://medium.com/)
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: Avid Reader 📚
+- ⚡ **Fun Fact**: Avid Reader
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/)
