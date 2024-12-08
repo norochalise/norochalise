@@ -8,13 +8,13 @@ Welcome to my GitHub!
 - 📚 **Currently Reading**: Always exploring fascinating reads, from thought-provoking books to insightful research papers. (Suggestions are welcome!)
 - 👯 **Looking to Collaborate On**: Data Science, AI/ML, Deep Learning, MLOps, and innovative tech solutions.
 - 💬 **Ask Me About**: AI, ML, Data Science, or starting your content journey.
-- 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/norochalise), [Twitter](https://twitter.com/norochalise), [Medium](https://medium.com/@norochalise)
+- 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/norochalise), [X](https://twitter.com/norochalise), [Medium](https://medium.com/@norochalise)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I'm an avid reader who thrives on solving complex problems and creating value through content.
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/norochalise)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/norochalise)
+[![X](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/norochalise)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black)](https://medium.com/@norochalise)
 [![NoroInsight](https://img.shields.io/badge/NoroInsight-green?style=flat&logo=link&labelColor=green)](https://noroinsight.com)
 
