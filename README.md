@@ -1,10 +1,6 @@
-<!-- ========================= -->
-<!--        HEADER AREA        -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Noro%20Chalise&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Learning%20%26%20Building&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Noro%20Chalise&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Building%20Useful%20Systems&descAlignY=58&descSize=18" width="100%" />
 
 <br>
 
@@ -38,7 +34,7 @@ I enjoy turning data and modern AI techniques into practical solutions, explorin
 - 📊 Enjoy transforming data into meaningful insights and better decisions
 - 🤖 Exploring **LLMs, RAG, AI Agents, intelligent applications, and AI engineering**
 - ✍️ Creating technical articles, tutorials, and educational content through **NoroInsight**
-- 📚 Constantly learning through books, research papers, experimentation, and hands-on projects
+- 📚 Constantly learning through books, research papers, experiments, and hands-on projects
 - 🌍 Interested in the intersection of **technology, business, economics, and society**
 - 🤝 Open to collaboration on meaningful **Data Science, Machine Learning, and AI projects**
 
@@ -132,7 +128,7 @@ I enjoy turning data and modern AI techniques into practical solutions, explorin
 
 </div>
 
-**[NoroInsight](https://noroinsight.com)** is where I explore, learn, and explain ideas across:
+**[NoroInsight](https://noroinsight.com)** is where I explore and explain ideas across:
 
 `Artificial Intelligence` · `Machine Learning` · `Data Science` · `Generative AI` · `LLMs` · `AI Agents` · `Emerging Technologies`
 
@@ -158,33 +154,25 @@ Book and research paper recommendations are always welcome.
 
 My GitHub is a place for:
 
-- Data Science experiments and projects
-- Machine Learning implementations
+- Data Science projects
+- Machine Learning experiments
 - Applied AI applications
-- LLM and Generative AI experiments
+- LLM and Generative AI explorations
 - Data analysis and visualization
-- Learning projects and technical explorations
-- Reproducible code and practical examples
+- Learning projects
+- Reproducible examples and practical implementations
 
-I try to build projects that help me move from **understanding concepts to applying them in practice**.
+I try to move from **understanding concepts to applying them in practice**.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Overview
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=norochalise&show_icons=true&hide_border=true&theme=transparent" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norochalise&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=norochalise&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -216,7 +204,7 @@ I'm always happy to connect with people interested in **AI, Data Science, Machin
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=norochalise&style=flat-square&color=2563EB&label=Profile+Views">
+<img src="https://komarev.com/ghpvc/?username=norochalise&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 
 </div>
 
