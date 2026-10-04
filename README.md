@@ -1,30 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:7C3AED&height=220&section=header&text=Noro%20Chalise&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Intelligent%20Systems&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:5B21B6&height=220&section=header&text=Noro%20Chalise&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Intelligent%20Systems&descAlignY=60&descSize=20" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+Applied+AI+%7C+Machine+Learning;Building+with+Data%2C+AI%2C+and+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Sharing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+Applied+AI+%7C+Machine+Learning;Building+with+Data%2C+AI%2C+and+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Sharing" />
 
 <br><br>
 
 <p align="center">
-  <a href="https://noroinsight.com">
-    <img src="https://img.shields.io/badge/NoroInsight-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/norochalise">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/norochalise">
-    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@norochalise">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norochalise&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<a href="https://noroinsight.com">
+  <img src="https://img.shields.io/badge/NoroInsight-Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/norochalise">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/norochalise">
+  <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@norochalise">
+  <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 </p>
 
 </div>
@@ -101,8 +102,8 @@ I enjoy turning data and modern AI techniques into practical solutions, explorin
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-5B21B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector%20Search-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tool%20Calling-EA580C?style=for-the-badge" />
@@ -206,15 +207,11 @@ I'm always happy to connect with people interested in **AI, Data Science, Machin
 </a>
 
 <a href="https://noroinsight.com">
-  <img src="https://img.shields.io/badge/NoroInsight-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoroInsight-Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=norochalise&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:5B21B6&height=120&section=footer" width="100%" />
