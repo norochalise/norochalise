@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:059669,100:F59E0B&height=240&section=header&text=Noro%20Chalise&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Intelligent%20Systems&descAlignY=62&descSize=22" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:EA580C,100:F59E0B&height=240&section=header&text=Noro%20Chalise&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Intelligent%20Systems&descAlignY=62&descSize=22" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=059669&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+Applied+AI+%7C+Machine+Learning;Building+with+Data%2C+AI%2C+and+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Sharing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+Applied+AI+%7C+Machine+Learning;Building+with+Data%2C+AI%2C+and+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Sharing" />
 
 <br><br>
 
 <p align="center">
 
 <a href="https://noroinsight.com">
-  <img src="https://img.shields.io/badge/NoroInsight-Website-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoroInsight-Website-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/norochalise">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norochalise&label=PROFILE+VIEWS&color=059669&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=norochalise&label=PROFILE+VIEWS&color=EA580C&style=for-the-badge" />
 </p>
 
 </div>
@@ -106,11 +106,11 @@ I enjoy turning data and modern AI techniques into practical solutions, explorin
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-EA580C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-0EA5A4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Search-15803D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-D97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-C2410C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Search-9A3412?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-B45309?style=for-the-badge" />
 </p>
 
 ### 📊 Visualization & Analytics
@@ -127,7 +127,7 @@ I enjoy turning data and modern AI techniques into practical solutions, explorin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-EA580C?style=for-the-badge" />
 </p>
 
 ---
@@ -211,11 +211,11 @@ I'm always happy to connect with people interested in **AI, Data Science, Machin
 </a>
 
 <a href="https://noroinsight.com">
-  <img src="https://img.shields.io/badge/NoroInsight-Website-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoroInsight-Website-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:059669,100:F59E0B&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:EA580C,100:F59E0B&height=120&section=footer" width="100%" />
