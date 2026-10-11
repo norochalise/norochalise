@@ -1,221 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:7C3AED&height=220&section=header&text=Noro%20Chalise&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Intelligent%20Systems&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102027,60:2E3F47,100:CC220F&height=230&section=header&text=Noro%20Chalise&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Applied%20AI%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=19" width="100%" alt="Noro Chalise" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=FF2B17&center=true&vCenter=true&width=720&lines=Data+Scientist+%C2%B7+Applied+AI;Turning+data+into+decisions;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Explain" alt="Typing intro" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Data+Scientist+%7C+Applied+AI+%7C+Machine+Learning;Building+with+Data%2C+AI%2C+and+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Experimenting+%E2%86%92+Sharing" />
+<a href="https://noroinsight.com"><img src="https://img.shields.io/badge/NoroInsight-FF2B17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NoroInsight" /></a>
+<a href="https://www.linkedin.com/in/norochalise"><img src="https://img.shields.io/badge/LinkedIn-102027?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/norochalise"><img src="https://img.shields.io/badge/X-102027?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://medium.com/@norochalise"><img src="https://img.shields.io/badge/Medium-102027?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+
+</div>
+
+<br>
+
+> **Hi, I'm Noro.** I'm a data scientist working at the meeting point of **data, machine learning and applied AI**.
+> I like taking an idea apart until it makes sense, building something real with it, and then explaining it clearly enough that someone else can use it too.
+
+<br>
+
+## <img src="https://img.shields.io/badge/-FF2B17?style=flat-square" height="14" /> &nbsp;About
+
+- **Focus:** data science, machine learning, and practical AI systems that solve real problems
+- **Exploring:** LLMs, retrieval (RAG), AI agents, evaluation, and how to make models reliable
+- **Writing:** technical articles and explainers at **[NoroInsight](https://noroinsight.com)**
+- **Reading:** books, research papers and long-form essays on AI, mathematics, economics and decision making
+- **Open to:** collaboration on meaningful data science, ML and AI work
+
+<br>
+
+## <img src="https://img.shields.io/badge/-FF2B17?style=flat-square" height="14" /> &nbsp;What I Work On
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Data Science
+Statistical analysis<br>
+Predictive modeling<br>
+Feature engineering<br>
+Data visualization
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Machine Learning
+Deep learning<br>
+NLP & transformers<br>
+Model evaluation<br>
+Generative AI
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Applied AI
+LLM applications<br>
+Retrieval (RAG)<br>
+AI agents & tool use<br>
+Evaluation & reliability
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📈 Analytics
+Business intelligence<br>
+Decision support<br>
+Dashboards<br>
+Insight reporting
+
+</td>
+<td width="33%" valign="top">
+
+### ✍️ AI Education
+Technical writing<br>
+Tutorials<br>
+Clear explainers<br>
+Learning resources
+
+</td>
+<td width="33%" valign="top">
+
+### 🔬 Exploration
+Research papers<br>
+Experiments<br>
+Emerging tech<br>
+New ideas
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## <img src="https://img.shields.io/badge/-FF2B17?style=flat-square" height="14" /> &nbsp;Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postgres,git,github&theme=dark" alt="Core tools" />
 
 <br><br>
 
-<p align="center">
+**Data & ML**<br>
+<img src="https://img.shields.io/badge/Python-102027?style=flat-square&logo=python&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/SQL-102027?style=flat-square&logo=postgresql&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/Pandas-102027?style=flat-square&logo=pandas&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/NumPy-102027?style=flat-square&logo=numpy&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/scikit--learn-102027?style=flat-square&logo=scikitlearn&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/PyTorch-102027?style=flat-square&logo=pytorch&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/TensorFlow-102027?style=flat-square&logo=tensorflow&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/Keras-102027?style=flat-square&logo=keras&logoColor=FF2B17" />
+<img src="https://img.shields.io/badge/Hugging_Face-102027?style=flat-square&logo=huggingface&logoColor=FF2B17" />
 
-<a href="https://noroinsight.com">
-  <img src="https://img.shields.io/badge/NoroInsight-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+**Generative AI**<br>
+<img src="https://img.shields.io/badge/OpenAI-0E7C86?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-0E7C86?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-0E7C86?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-0E7C86?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-0E7C86?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_Search-0E7C86?style=flat-square" />
+<img src="https://img.shields.io/badge/Tool_Calling-0E7C86?style=flat-square" />
 
-<a href="https://www.linkedin.com/in/norochalise">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/norochalise">
-  <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@norochalise">
-  <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norochalise&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Data Scientist focused on Applied AI, Machine Learning, and intelligent systems**.
-
-I enjoy turning data and modern AI techniques into practical solutions, exploring emerging technologies, and sharing what I learn through **[NoroInsight](https://noroinsight.com)**.
-
-- 🧠 Interested in **Artificial Intelligence, Machine Learning, Data Science, and Generative AI**
-- 📊 Enjoy transforming data into meaningful insights and better decisions
-- 🤖 Exploring **LLMs, RAG, AI Agents, intelligent applications, and AI engineering**
-- ✍️ Creating technical articles, tutorials, and educational content through **NoroInsight**
-- 📚 Constantly learning through books, research papers, experiments, and hands-on projects
-- 🌍 Interested in the intersection of **technology, business, economics, and society**
-- 🤝 Open to collaboration on meaningful **Data Science, Machine Learning, and AI projects**
-
----
-
-## 🧭 Areas of Interest
-
-<div align="center">
-
-| 📊 Data Science | 🧠 Artificial Intelligence | 🤖 Applied AI |
-|:---:|:---:|:---:|
-| Statistical Analysis | Deep Learning | LLM Applications |
-| Predictive Modeling | NLP | RAG |
-| Feature Engineering | Transformers | AI Agents |
-| Data Visualization | Generative AI | Evaluation & Tool Use |
+**Analytics & Engineering**<br>
+<img src="https://img.shields.io/badge/Power_BI-CC220F?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-CC220F?style=flat-square" />
+<img src="https://img.shields.io/badge/Seaborn-CC220F?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-CC220F?style=flat-square" />
+<img src="https://img.shields.io/badge/MLOps-CC220F?style=flat-square" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-| 📈 Business Intelligence | ✍️ AI Education | 🔬 Exploration |
-|:---:|:---:|:---:|
-| Data Analytics | Technical Writing | Research |
-| Decision Support | Tutorials | Experimentation |
-| Power BI | AI Explainers | Emerging Technologies |
-| Business Insights | Learning Resources | New Ideas |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-### 🧠 Machine Learning & Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### 🤖 Generative AI & AI Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Search-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-EA580C?style=for-the-badge" />
-</p>
-
-### 📊 Visualization & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-</p>
-
-### ⚙️ Tools & Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-2563EB?style=for-the-badge" />
-</p>
-
----
-
-## ✍️ NoroInsight
+## <img src="https://img.shields.io/badge/-FF2B17?style=flat-square" height="14" /> &nbsp;NoroInsight
 
 <div align="center">
 
-### Learn → Build → Experiment → Explain → Share
+<a href="https://noroinsight.com"><img src="https://img.shields.io/badge/Read_on-noroinsight.com-FF2B17?style=for-the-badge&labelColor=102027" alt="Read on noroinsight.com" /></a>
 
 </div>
 
-**[NoroInsight](https://noroinsight.com)** is where I explore and explain ideas across:
+**[NoroInsight](https://noroinsight.com)** is where I explore and explain ideas in
+`AI` · `Machine Learning` · `Data Science` · `Generative AI` · `LLMs` · `AI Agents` · `Emerging Tech`
 
-`Artificial Intelligence` · `Machine Learning` · `Data Science` · `Generative AI` · `LLMs` · `AI Agents` · `Emerging Technologies`
+I believe the best way to understand something deeply is to **build it, question it, and explain it clearly**.
 
-I believe one of the best ways to understand something deeply is to **build it, question it, and explain it clearly**.
+<br>
 
----
+## <img src="https://img.shields.io/badge/-FF2B17?style=flat-square" height="14" /> &nbsp;Beyond Code
 
-## 📚 Beyond Code
-
-I'm an avid reader and enjoy exploring ideas beyond programming.
-
-Some of the topics that interest me include:
+I read widely outside programming:
 
 **Artificial Intelligence** · **Mathematics** · **Economics** · **Business** · **Technology** · **Decision Making** · **Human Behavior**
 
-I enjoy learning from books, research papers, long-form articles, experiments, and real-world projects.
+Book and paper recommendations are always welcome.
 
-Book and research paper recommendations are always welcome.
+<br>
 
----
-
-## 🚀 What You'll Find Here
-
-My GitHub is a place for:
-
-- Data Science projects
-- Machine Learning experiments
-- Applied AI applications
-- LLM and Generative AI explorations
-- Data analysis and visualization
-- Learning projects
-- Reproducible examples and practical implementations
-
-I try to move from **understanding concepts to applying them in practice**.
-
----
-
-## 📊 GitHub Overview
+## <img src="https://img.shields.io/badge/-FF2B17?style=flat-square" height="14" /> &nbsp;GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=norochalise&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norochalise&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always happy to connect with people interested in **AI, Data Science, Machine Learning, research, technology, and building useful things**.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/norochalise">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/norochalise">
-  <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@norochalise">
-  <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://noroinsight.com">
-  <img src="https://img.shields.io/badge/NoroInsight-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=norochalise&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF2B17&icon_color=0E7C86&text_color=7A8B92&ring_color=FF2B17" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norochalise&layout=compact&hide_border=true&bg_color=00000000&title_color=FF2B17&text_color=7A8B92" alt="Top languages" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
+<div align="center">
+
+### Let's connect
+
+Always happy to talk with people who care about **AI, data, research and building useful things**.
+
+<a href="https://noroinsight.com"><img src="https://img.shields.io/badge/NoroInsight-FF2B17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NoroInsight" /></a>
+<a href="https://www.linkedin.com/in/norochalise"><img src="https://img.shields.io/badge/LinkedIn-102027?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/norochalise"><img src="https://img.shields.io/badge/X-102027?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://medium.com/@norochalise"><img src="https://img.shields.io/badge/Medium-102027?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=norochalise&label=profile+views&color=CC220F&style=flat-square" alt="Profile views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC220F,40:2E3F47,100:102027&height=110&section=footer" width="100%" />
